@@ -12,5 +12,11 @@
 <a href="https://linkedin.com/in/ankitkx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitkx" height="30" width="40" /></a>
 </p>
 
+
+## ☕ Support Me
+
+[![Buy Me A Chai](https://buymeachai.ankushminda.com/assets/images/buymeachai-button.png)](https://buymeachai.ankushminda.com/fenrirxrishav)
+
+> **"Main code likhta hoon, duniya hilata hoon. Ek coffee pila, fir dekh jaadu. 😎🔥"**
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitxrishav&show_icons=true&locale=en&layout=compact" alt="ankitxrishav" /></p>
-# [![Buy Me A Chai](https://buymeachai.ankushminda.com/assets/images/buymeachai-button.png)](https://buymeachai.ankushminda.com/fenrirxrishav)
