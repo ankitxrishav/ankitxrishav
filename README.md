@@ -13,5 +13,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitxrishav&show_icons=true&locale=en&layout=compact" alt="ankitxrishav" /></p>
-
-[![Buy Me A Chai](https://buymeachai.ankushminda.com/assets/images/buymeachai-button.png)](https://buymeachai.ankushminda.com/fenrirxrishav)
+a href="https://buymeachai.ankushminda.com/fenrirxrishav" target="_blank">
+  <img src="https://buymeachai.ankushminda.com/assets/images/buymeachai-button.png" alt="Buy Me A Chai" width="180"/>
+</a>
