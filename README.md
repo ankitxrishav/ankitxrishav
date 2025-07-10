@@ -4,6 +4,7 @@
 - I'm Currently **Offline Maybe Sleeping**
 
 - 👯 I’m looking to collaborate on [Gesture-Controlled Real-Time Music Generator](https://github.com/ankitxrishav/HandGesture_Music.git)
+                                    [FenrirPDF only merge and extract feature is functional ](https://github.com/ankitxrishav/FenrirPDF.git)
 
 - 👨‍💻 All of my projects are available at [https://ankitxk.vercel.app](https://ankitxk.vercel.app)
 
