@@ -33,16 +33,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,rust,js,html,css,linux,git,github" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,docker" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 > Some of my best and pinned work 👇
