@@ -2,7 +2,7 @@
   align="right"
   width="280"
   alt="Minimal developer workspace with a laptop and code editor, representing building and experimenting with AI systems."
-  src="pfp.jpg"
+  src="poster.png"
 />
 
 ### Hey, I’m Ankit! 👋
