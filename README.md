@@ -7,7 +7,7 @@
 
 ### Hey, I’m Ankit! 👋
 
-I’m an AIML undergraduate who enjoys building systems where **machine learning meets real-world constraints**.
+I’m an AIML undergraduate who enjoys building systems where **code meets real-world constraints**.
 
 I focus on real problems and try to solve them in simple, practical ways using whatever tools make sense. If something works, it works , **the tool matters less than the outcome.**.
 
