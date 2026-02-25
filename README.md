@@ -20,7 +20,8 @@ Most of my work is experimental in nature: I try ideas, break things, and rebuil
 [FenrirPDF](https://github.com/ankitxrishav/FenrirPDF) ·
 [FenrirStudy](https://github.com/ankitxrishav/FenrirStudy) ·
 [My_portfolio](https://github.com/ankitxrishav/Portfolio_v2)
-### Around the web
+
+
 - Portfolio → https://ankitxr.vercel.app  
 - LinkedIn → https://www.linkedin.com/in/ankitkx
 
